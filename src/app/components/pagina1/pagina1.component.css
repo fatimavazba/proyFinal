@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    color: rgb(255, 92, 146);
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 6px rgb(161, 197, 202);
+}
+
+.recuadro1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.lista li{
+    list-style-type: none;
+}

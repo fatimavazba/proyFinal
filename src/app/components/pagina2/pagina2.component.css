@@ -1,0 +1,44 @@
+#titulo{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 92, 146);
+    color: rgb(243, 243, 243);
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 6px rgb(161, 197, 202);
+}
+
+.recuadro1 {
+    background-color: rgb(253, 255, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.recuadro1 li{
+    list-style-type: none;
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+#ima {
+    border-radius: 100%;
+}
+
+.recuadro2 {
+    background-color: rgb(140, 235, 163);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.recuadro2 li{
+    list-style-type: none;
+}
+
+.recuadro2 h2{
+    text-align: center;
+
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+}

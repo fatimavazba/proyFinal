@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+  
+li{
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: #6e8d3b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover:not(.active) {
+    background-color: #78bd72;
+}
+  
+li a.active {
+    color: rgb(206, 46, 198);
+    background-color: #1d04aa;
+}
+
+h1{
+    color: #FF9494;
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 5px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+    font-size: 70px;
+    font-weight: bold;    
+    background-size: 300px 380px;
+    background-color: #FFFFCC;
+}
