@@ -20,3 +20,7 @@ section {
 .lista li{
     list-style-type: none;
 }
+
+body{
+    background-color: rgb(235, 233, 161);
+}
